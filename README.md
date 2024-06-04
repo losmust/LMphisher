@@ -4,7 +4,7 @@ Uma ferramenta simples de Phishing programada em python com vários templates us
 
 # Uso e instalação
 ```
-git clone https://github.com/Euronymou5/0ni-Phish
+tt
 ```
 ```
 pip3 install colorama
