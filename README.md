@@ -1,17 +1,17 @@
-# phisher-atk
+# LM-phisher
 
-Uma ferramenta simples de Phishing programada em python com vários templates usando php para iniciar um servidor web.
+Uma ferramenta simples de phishing programada em python com vários templates usando php para iniciar um servidor web.
 
 # Uso e instalação
 ```
-tt
+git clone https://github.com/losmust/LMphisher.git
 ```
 ```
 pip3 install colorama
 ```
 ```
-cd 0ni-Phish
+cd LMphisher
 ```
 ```
-python3 0ni.py
+unzip LMphisher.zip
 ```
