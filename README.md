@@ -15,3 +15,5 @@ cd LMphisher
 ```
 unzip LMphisher.zip
 ```
+```
+python3 phisher.py
